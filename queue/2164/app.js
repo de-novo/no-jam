@@ -39,6 +39,7 @@ class Queue {
     }
 }
 
+
 const queue = new Queue();
 
 new Array(Number(data)).fill(0).forEach((_, i) => {
